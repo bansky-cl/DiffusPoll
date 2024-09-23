@@ -44,4 +44,4 @@ python eval_seq2seq.py --folder ../{your-path-to-outputs} --tokenizer char --mbr
 
 ## Acknowledgement
 
-DiffusPoll benifits from [Diffuseq](https://github.com/Shark-NLP/DiffuSeq). We are grateful to the original authors for their valuable contributions and for making their work open-source.
+DiffusPoll benifits from [Diffuseq](https://github.com/Shark-NLP/DiffuSeq). We are grateful to the authors for work open-source.
